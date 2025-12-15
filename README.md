@@ -141,3 +141,6 @@ Data Cleaning → Feature Engineering → Feature Selection → Modeling → Eva
 -Matplotlib, Seaborn
 
 -Jupyter Notebook / Google Colab
+
+# Presentation
+https://www.canva.com/design/DAG5Io_6AOY/Sg0DIX2G8ucOIoPkUkn-nQ/view?utm_content=DAG5Io_6AOY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbfb61e9cb2#3
